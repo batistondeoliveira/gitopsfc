@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: batistondeoliveira/gitopsfc
-  newTag: newTag
+  newTag: 69f85606ddff6f813300e9039f8b3eaee4545e44
